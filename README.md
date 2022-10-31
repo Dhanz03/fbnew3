@@ -24,3 +24,5 @@ $ pip install rich
 $ git clone https://github.com/Dhanz03/fbnew3 
 
 $ cd fbnew3 
+
+$ python fbnew3.py
