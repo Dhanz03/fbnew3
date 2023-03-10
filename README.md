@@ -1,5 +1,5 @@
 # fbnew3
-Crack akun Temen Lu Deck
+Crack akun Temen Lu Bre
 
 # Cara install bahan
 
@@ -9,13 +9,7 @@ $ pkg install git
 
 $ pkg install python
 
-$ python -m pip install --upgrade pip
-
-$ pip install mechanize
-
 $ pip install requests
-
-$ pip install stdiomask
 
 $ pip install bs4
 
@@ -25,4 +19,4 @@ $ git clone https://github.com/Dhanz03/fbnew3
 
 $ cd fbnew3 
 
-$ python fbnew3.py
+$ python dhanz.py
